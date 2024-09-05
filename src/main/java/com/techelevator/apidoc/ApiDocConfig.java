@@ -15,7 +15,7 @@ import java.util.List;
 /*
  * While the server is running, this class automatically detects the project's
  * controller classes and annotations to build documentation API documentation
- * at the following URL: http://www.localhost:8080/swagger-ui/index.html
+ * at the following URL: western-alameda-rosieomusic-be22ac7d.koyeb.app/swagger-ui/index.html
  *
  * Add the @Hidden annotation above any class or controller method to
  * omit documentation for one or more endpoints
